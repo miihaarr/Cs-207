@@ -13,7 +13,8 @@
  
  -Here is my code, and a picture of my Arduino project irl and schematic diagram.
  
- ![hardware](https://user-images.githubusercontent.com/60302630/114806286-bb053000-9d61-11eb-8567-504660b5b376.jpg)
+![hardware](https://user-images.githubusercontent.com/60302630/114806286-bb053000-9d61-11eb-8567-504660b5b376.jpg)
+![WhatsApp Image 2021-04-14 at 8 48 12 PM](https://user-images.githubusercontent.com/60302630/114807001-df154100-9d62-11eb-930d-26900fb40dab.jpeg)
 
  
  
