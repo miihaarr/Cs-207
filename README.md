@@ -73,12 +73,24 @@ This, build follows these connections:
   6. Take a red LED and a 560ohm resistor, place the resistor to one side of the LED and wire it to Arduino pin 7. The otherside will be pinned to ground.
   7. After this, we will connect peizo speaker. For this, plug the negative side of the speaker to ground and other side to Arduino pin 6.
   8. For the connection of the Ultrasonic sensor, we will do the following connections,
+      
       VCC -> Arduino 5v
+      
       GND -> Arduino GND
+      
       TRIG -> Arduino pin 9
+      
       ECHO -> Arduino pin 10
+      
   9. We have successfully build our circuit and it's ready to test.
+  
+# How does it work?
 
+1. The main purpose of this device is to alarm the driver if ther's any obstacle under the particular distance set by me while parking the car in reverse.
+2. This device displays the distance between the car and the obstacle. If the distance gets less than  or equal to 10, it beeps, shows messages and flashes red light.
+3. This would warn the driver that he/she should stop backing up the car and park it.
+4. I modified the chunk of code, I took from  the web by Dejan Nedelkovski and added the LCD screen, LED and buzzerso, it could also be helpful to disabled or incapable drivers.
+5. Well, Its been already in use in nowadays modern technified cars. I love it though and I am planning to implant this device into my brother's
 
  
  
