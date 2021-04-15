@@ -89,8 +89,10 @@ This, build follows these connections:
 1. The main purpose of this device is to alarm the driver if ther's any obstacle under the particular distance set by me while parking the car in reverse.
 2. This device displays the distance between the car and the obstacle. If the distance gets less than  or equal to 10, it beeps, shows messages and flashes red light.
 3. This would warn the driver that he/she should stop backing up the car and park it.
-4. I modified the chunk of code, I took from  the web by Dejan Nedelkovski and added the LCD screen, LED and buzzerso, it could also be helpful to disabled or incapable drivers.
-5. Well, Its been already in use in nowadays modern technified cars. I love it though and I am planning to implant this device into my brother's toy car.
+4. It displays CLEAR! when the object is far away from the car by 10cm or more.
+5. It displays TOO CLOSE! when its under 10cm.
+6. I modified the chunk of code, I took from  the web by Dejan Nedelkovski and added the LCD screen, LED and buzzerso, it could also be helpful to disabled or incapable drivers.
+7. Well, Its been already in use in nowadays modern technified cars. I love it though and I am planning to implant this device into my brother's toy car.
 
 # Team
 
