@@ -43,18 +43,31 @@ This, build follows these connections:
   2. Starting with the LCD display, take 16*2 LCD display and fit it at the end of the breadboard.
   3. Same with the potentiometer, place it near the LCD display.
      -follow this connections, from pin 1 to pin 16.
+     
       pin 1 -> Arduino GND
+     
       pin 2 -> Arduino 5V
+      
       pin 3 -> Middle pin of potentiometer
+      
       pin 4 -> Arduino pin 12
+      
       pin 5 -> Arduino GND
+      
       pin 6 -> Arduino pin 11
+      
       pin 11 -> Arduino pin 5
+      
       pin 12 -> Arduino pin 4
+      
       pin 13 -> Arduino pin 3
+      
       pin 14 -> Arduino pin 2
+      
       pin 15 -> Arduino 5v
+      
       pin 16 -> Arduino GND
+      
   4. Connect the rest two pins of he potentiometer to 5V and GND.
   5. With the successfully connected LCD display, we will add a red LED and a peizo speaker.
   6. Take a red LED and a 560ohm resistor, place the resistor to one side of the LED and wire it to Arduino pin 7. The otherside will be pinned to ground.
