@@ -90,7 +90,14 @@ This, build follows these connections:
 2. This device displays the distance between the car and the obstacle. If the distance gets less than  or equal to 10, it beeps, shows messages and flashes red light.
 3. This would warn the driver that he/she should stop backing up the car and park it.
 4. I modified the chunk of code, I took from  the web by Dejan Nedelkovski and added the LCD screen, LED and buzzerso, it could also be helpful to disabled or incapable drivers.
-5. Well, Its been already in use in nowadays modern technified cars. I love it though and I am planning to implant this device into my brother's
+5. Well, Its been already in use in nowadays modern technified cars. I love it though and I am planning to implant this device into my brother's toy car.
+
+# Team
+
+This project is done by me. I did everything from gathering hardware to building, coding and documentation.
+To be honest, I was off the milestone schedule but made it to the end.
+
+## Thank you!
 
  
  
