@@ -1,3 +1,1 @@
-# CS207 Final Project
-
-//  Reverse cark parking sensor
+# Reverse cark parking sensor
