@@ -1,7 +1,8 @@
 # Reverse cark parking sensor
  - Mihar Kathiriya.
 
-``` ARDUINO : Reverse Car parking Sensor ```
+```                                                               ARDUINO : Reverse Car parking Sensor                                                                         ```
+ 
  -This Project is one of the useful device used in the world, A parking sensor for all the drivers out there who keep denting their car while parking it in reverse.
  
  -I have modified the code I saw on the internet by Dejan Nedelkovski. 
