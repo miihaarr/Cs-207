@@ -94,7 +94,10 @@ This, build follows these connections:
 
 # Team
 
-This project is done by me. I did everything from gathering hardware to building, coding and documentation.
+This project is done by me.
+>MIHAR KATHIRIYA.
+
+I did everything from gathering hardware to building, coding and documentation.
 To be honest, I was off the milestone schedule but made it to the end.
 
 ## Thank you!
